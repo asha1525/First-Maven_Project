@@ -1,5 +1,5 @@
 <html>
   <body>
-    <h2>Hello from Jenkins! Deployed to Tomcat 10 on port 8090</h2>
+       <h2>Version 2 - Redeployed automatically by Jenkins!</h2>
   </body>
 </html>
