@@ -6,6 +6,7 @@
   <groupId>com.asha</groupId>
   <artifactId>Project-1</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
 
   <name>Project-1</name>
   <!-- FIXME change it to the project's website -->
@@ -14,6 +15,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>17</maven.compiler.release>
+    <failOnMissingWebXml>false</failOnMissingWebXml>
   </properties>
 
   <dependencyManagement>
